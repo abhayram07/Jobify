@@ -1,2 +1,2 @@
-# Jobify
+# Job portal
 job portal website
